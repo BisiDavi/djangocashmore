@@ -41,7 +41,7 @@ static3==0.7.0
 stevedore==1.32.0
 timeago==1.0.14
 toml==0.10.1
-urllib3==1.25.9
+urllib3==1.26.5
 virtualenv==20.0.20
 virtualenv-clone==0.5.4
 virtualenvwrapper==4.8.4
